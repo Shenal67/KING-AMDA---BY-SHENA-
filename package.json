@@ -4,9 +4,9 @@
   "description": "AMDA-MD WhatsApp bot created Sadeesha With using Node.js",
   "main": "Amda.js",
   "scripts": {
-    "start": "pm2 start Lara.js --deep-monitoring --attach --name lara",
-    "stop": "pm2 stop lara",
-    "restart": "pm2 restart lara"
+    "start": "pm2 start Amda.js --deep-monitoring --attach --name amda",
+    "stop": "pm2 stop amda",
+    "restart": "pm2 restart amda"
   },
   "dependencies": {
     "@whiskeysockets/baileys": "git+https://gitlab.com/amilaKumara/baileys-pmd.git",
