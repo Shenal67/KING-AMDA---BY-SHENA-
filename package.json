@@ -1,8 +1,8 @@
 {
-  "name": "lara",
+  "name": "amda",
   "version": "3.5.0",
-  "description": "Lara-MD WhatsApp bot created Sadeesha With using Node.js",
-  "main": "Lara.js",
+  "description": "AMDA-MD WhatsApp bot created Sadeesha With using Node.js",
+  "main": "Amda.js",
   "scripts": {
     "start": "pm2 start Lara.js --deep-monitoring --attach --name lara",
     "stop": "pm2 stop lara",
