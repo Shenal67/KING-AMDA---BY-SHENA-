@@ -11,7 +11,7 @@ MODE: process.env.MODE || "public",  //public | private | inbox | group
 OWNER_NUMBER: process.env.OWNER_NUMBER || "94768041135",
 DEV: process.env.DEV || "94768041135",
 LANG: process.env.LANG || "SI", // EN | SI
-AUTO_READ_STATUS: process.env.AUTO_READ_STATUS || "true",
+AUTO_READ_STATUS: process.env.AUTO_READ_STATUS || "false",
 AUTO_STATUS_REACT: process.env.AUTO_STATUS_REACT || "true",
 AUTO_STATUS_REPLY: process.env.AUTO_STATUS_REPLY || "false",
 STATUS_REPLY_MSG: process.env.STATUS_REPLY_MSG || "【﻿ｙｏｕｒ　ｓｔａｔｕｓ　ｓｅｅｎ　ｂｙ　ａｍｄａ】
