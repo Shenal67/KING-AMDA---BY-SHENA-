@@ -1,7 +1,8 @@
 {
-  "name": "LARA-MD",
-  "description": "LARA-MD Whatsapp bot © ᴄʀᴇᴀᴛᴇᴅ ʙʏ ꜱᴀᴅᴇᴇꜱʜᴀ ᴄᴏᴅᴇʀ · · ·",
-  "logo": "https://i.ibb.co/YZFg7Pq/IMG-20241127-WA0058.jpg",
+  "name": "ᴋɪɴɢ-ᴀᴍᴅᴀ (ʙʏ ꜱʜᴇɴᴀ)
+",
+  "description": "​🇰​​🇮​​🇳​​🇬​ ​🇦​​🇲​​🇩​​🇦​ ​🇧​​🇴​​🇹​ ​🇨​​🇷​​🇪​​🇦​​🇹​​🇪​​🇩​ ​🇧​​🇾​ ​🇩​​🇦​​🇷​​🇰​ ​🇽​ ​🇸​​🇭​​🇪​​🇳​​🇦​",
+  "logo": "https://i.postimg.cc/c18XWSkx/20251023-163321.png",
   "keywords": ["bot"],
   "success_url": "/",
 
@@ -16,13 +17,13 @@
     "OWNER_NUMBER": {
       "description": "Set your owner number",
       "required": true,
-      "value": "94779062397"
+      "value": "94768041135"
     },
 
     "DEV": {
       "description": "Bot Developer Numeber",
       "required": true,
-      "value": "94779062397"
+      "value": "94768041135"
     },
     
     "PREFIX": {
@@ -64,7 +65,7 @@
     "STATUS_REPLY_MSG": {
       "description": "Statues reply msg",
       "required": true,
-      "value": "*_`AUTO STATUS JUST NOW SEEN BY LARA MD`_*"
+      "value": "AUTO STATUS JUST NOW SEEN BY SHENA"
     },
     
     "AUTO_STATUS_REACT": {
@@ -106,7 +107,7 @@
       "CUSTOM_REACT_EMOJIS": {
       "description": "Custome react emojis.",
       "required": true,
-      "value": "💝,💖,💗,❤️‍🩹,❤️,🧡,💛,💚,💙,💜,🤎,🖤,🤍"
+      "value": "👽"
     },
     
     "ANTI_LINK": {
